@@ -25,17 +25,17 @@ data = {
     ],
     "/comments": [
         {
-            "commentId": "c1",
-            "commentContent": "Great teacher! Very engaging.",
+            "commentId": 1,
+            "commentContent": "Great teacher! Very engaging. Great teacher! Very engaging.Great teacher! Very engaging.Great teacher! Very engaging.Great teacher! Very engaging.Great teacher! Very engaging.",
             "creationDate": 1694630400
         },
         {
-            "commentId": "c2",
+            "commentId": 2,
             "commentContent": "Very knowledgeable and helpful.",
             "creationDate": 1694716800
         },
         {
-            "commentId": "c3",
+            "commentId": 3,
             "commentContent": "The lessons were clear and well-structured.",
             "creationDate": 1694803200
         }

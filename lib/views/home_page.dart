@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lehrium_flutter/modules/teacher.api.dart';
-import 'package:lehrium_flutter/views/teacher.dart';
+import 'package:lehrium_flutter/views/teacher_page.dart';
 import 'package:lehrium_flutter/views/widgets/teacher_card.dart';
 
 import 'package:lehrium_flutter/modules/teacher.dart';
